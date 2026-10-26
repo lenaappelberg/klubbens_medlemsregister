@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public void main (String[] args){
+        Register medlemsregister = new Register();
         Scanner scanner = new Scanner(System.in);
         int choice=1;
         while(!(choice==0)){
@@ -11,9 +12,18 @@ public class Main {
             switch(choice){
                 case 1:
                     System.out.println("add member");
+                    System.out.println("Write the member's name");
+                    String medlemsnamn=scanner.next();
+                    System.out.println("Write the membersnumber");
+                    int medlemsnumner=scanner.nextInt();
+                    System.out.println("Write the members email");
+                    String medlemsemejl=scanner.next();
+                    Medlem nymedlem=new Medlem(medlemsnumner,medlemsnamn,medlemsemejl);
+                    medlemsregister.laggTillMedlem(nymedlem);
                     break;
                 case 2:
                     System.out.println("List all members");
+                    medlemsregister.visaAllaMedlemmar();
                     break;
                 case 3:
                     System.out.println("Search all members");
