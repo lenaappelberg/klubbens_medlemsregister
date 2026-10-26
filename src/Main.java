@@ -14,7 +14,7 @@ public class Main {
                     System.out.println("add member");
                     System.out.println("Write the member's name");
                     String medlemsnamn=scanner.next();
-                    System.out.println("Write the membersnumber");
+                    System.out.println("Write the member's number");
                     int medlemsnumner=scanner.nextInt();
                     System.out.println("Write the members email");
                     String medlemsemejl=scanner.next();
@@ -27,6 +27,9 @@ public class Main {
                     break;
                 case 3:
                     System.out.println("Search all members");
+                    System.out.println("which member do you want to search for?");
+                    String medlemssoknamn=scanner.next();
+                    medlemsregister.sokMedlem(medlemssoknamn);
                     break;
                 case 4:
                     System.out.println("Goodbye");
