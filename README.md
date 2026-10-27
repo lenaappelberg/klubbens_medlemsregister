@@ -37,10 +37,11 @@ Testad version: 42b052f (2026-10-26)
 * Namn med mellanslag kraschar.
 * Bokstäver som menyval/medlemsnummer kraschar.  
 Beslut: Vi tolkar instruktionen som att det inte är ett krav för uppgiften.
-
-* README behöver kompletteras med:
-    * förklaring av klass och objekt
-  
+* Objekt vs klass
+  Medlem är en klass eftersom det ska finnas flera medlemmar men med olika variabelvärde. Om Medlem var en grupp av 
+  variabler skulle man behöva skriva om samma variabel namn, med klass behöva man endast skapa en ny objekt namn och
+  förändar värdet på variablerna inuti objektet. Exempel på objekt i programmet är "Medlem medlem" inom klassen Register
+  och Medlem nymedlem.
     * Ett problem vi löste tillsammans:Madina: Jag fick tidigare fel i koden
  eftersom en klammerparentes låg på fel plats. Jag rattade felet och kunde sedan fortsätta. 
   Jag testade också funktionerna i konsolen för att kontrollera att de fungerade.
