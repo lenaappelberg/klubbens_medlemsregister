@@ -41,24 +41,12 @@ Beslut: Vi tolkar instruktionen som att det inte är ett krav för uppgiften.
 * README behöver kompletteras med: 
     * hur vi planerade delstegen före kodningen
     * förklaring av klass och objekt
-    * ett problem vi löste tillsammans
-    * vår reflektion om AI och externa hjälpmedel
+  
+    * Ett problem vi löste tillsammans: Jag fick tidigare fel i koden
+ eftersom en klammerparentes låg på fel plats. Jag rattade felet och kunde sedan fortsätta. 
+  Jag testade också funktionerna i konsolen för att kontrollera att de fungerade.
+  
+    * vår reflektion om AI och externa hjälpmedel: Jag använde ChatGPT för att få enkla förklaringar
+  av Java. Jag fick även hjälp att förstå felmeddelanden. Jag skrev och testade min kod i 
+  IntelliJ och kontrollerade resultatet sjalv. 
     
-## Arbetshistorik
-Lena skapade vårt GitHub-repo och bjöd in Sven och Madina. Hon lade också till .gitignore och Main.java.
-Sven skapade README.md med gruppens beslut om arbetsfördelning och regler.
-Medina skapade Medlem.java och Register.java.
-...
-
-## Klass vs objekt 
-
-## Samarbete i git
-Vi valde branches. Vi höll oss till egen fil som Main eller medlem till exempel.
-
-## Ett problem vi löste
-Vi hade lite misskommunikation i vår röstsamtal när vi mergade branches, eftersom jag mergade sent och då visades inte 
-mina förändringar i Madinas IDE.
-
-## Reflektion kring externa hjälpmedel
-Jag använde w3s java tutorial/hjälpmedel när jag glömde hur jag skulle anropa en konstrukor i main för att sen ange det
-nya objektet som parameter i metoden läggtillmedlem.
