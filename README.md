@@ -44,3 +44,21 @@ Beslut: Vi tolkar instruktionen som att det inte är ett krav för uppgiften.
     * ett problem vi löste tillsammans
     * vår reflektion om AI och externa hjälpmedel
     
+## Arbetshistorik
+Lena skapade vårt GitHub-repo och bjöd in Sven och Madina. Hon lade också till .gitignore och Main.java.
+Sven skapade README.md med gruppens beslut om arbetsfördelning och regler.
+Medina skapade Medlem.java och Register.java.
+...
+
+## Klass vs objekt 
+
+## Samarbete i git
+Vi valde branches. Vi höll oss till egen fil som Main eller medlem till exempel.
+
+## Ett problem vi löste
+Vi hade lite misskommunikation i vår röstsamtal när vi mergade branches, eftersom jag mergade sent och då visades inte 
+mina förändringar i Madinas IDE.
+
+## Reflektion kring externa hjälpmedel
+Jag använde w3s java tutorial/hjälpmedel när jag glömde hur jag skulle anropa en konstrukor i main för att sen ange det
+nya objektet som parameter i metoden läggtillmedlem.
