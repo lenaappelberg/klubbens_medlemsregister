@@ -43,10 +43,10 @@ Beslut: Vi tolkar instruktionen som att det inte är ett krav för uppgiften.
     * förklaring av klass och objekt
   
     * Ett problem vi löste tillsammans: Jag fick tidigare fel i koden
- eftersom en klammerparentes låg på fel plats. Jag rattade felet och kunde sedan tortsätta. 
+ eftersom en klammerparentes låg på fel plats. Jag rattade felet och kunde sedan fortsätta. 
   Jag testade också funktionerna i konsolen för att kontrollera att de fungerade.
   
-    * Al och hjälpmedel: Jag använde ChatGPT för att få enkla förklaringar av Java. 
-  Jag fick även hjälp att förstå felmeddelanden. Jag skrev och testade min kod i 
-  IntelliJ och kontrollerade resultatet sjalv. vår reflektion om AI och externa hjälpmedel
+    * vår reflektion om AI och externa hjälpmedel: Jag använde ChatGPT för att få enkla förklaringar
+  av Java. Jag fick även hjälp att förstå felmeddelanden. Jag skrev och testade min kod i 
+  IntelliJ och kontrollerade resultatet sjalv. 
     
