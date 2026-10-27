@@ -38,15 +38,19 @@ Testad version: 42b052f (2026-10-26)
 * Bokstäver som menyval/medlemsnummer kraschar.  
 Beslut: Vi tolkar instruktionen som att det inte är ett krav för uppgiften.
 
-* README behöver kompletteras med: 
-    * hur vi planerade delstegen före kodningen
+* README behöver kompletteras med:
     * förklaring av klass och objekt
   
-    * Ett problem vi löste tillsammans: Jag fick tidigare fel i koden
+    * Ett problem vi löste tillsammans:Madina: Jag fick tidigare fel i koden
  eftersom en klammerparentes låg på fel plats. Jag rattade felet och kunde sedan fortsätta. 
   Jag testade också funktionerna i konsolen för att kontrollera att de fungerade.
+  Lena:Vi hade lite misskommunikation i vår röstsamtal när vi mergade branches, eftersom jag mergade sent och då 
+  visades inte mina förändringar i Madinas IDE.
   
-    * vår reflektion om AI och externa hjälpmedel: Jag använde ChatGPT för att få enkla förklaringar
-  av Java. Jag fick även hjälp att förstå felmeddelanden. Jag skrev och testade min kod i 
-  IntelliJ och kontrollerade resultatet sjalv. 
-    
+    * vår reflektion om AI och externa hjälpmedel:
+  Madina:Jag använde ChatGPT för att få enkla förklaringar av Java. Jag fick även hjälp att förstå felmeddelanden.
+  Jag skrev och testade min kod i IntelliJ och kontrollerade resultatet sjalv.
+  Lena:Jag använde w3s java tutorial/hjälpmedel när jag glömde hur jag skulle anropa en konstrukor i main för att sen
+  ange det nya objektet som parameter i metoden läggtillmedlem.
+    * Samarbete i git
+  Vi valde branches. Vi höll oss till egna filer som Main eller Medlem till exempel. 
